@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JXG052
+- 👋 Hi, I’m Jon Green
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning HTML, CSS & JS. I start a skills bootcamp on 6th December
 - 💞️ I’m looking to collaborate on ...
